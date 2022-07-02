@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.118.29.219:8081/repository/paypal-snapshots/</url>
+	      <url>http://54.242.183.106:8081/repository/BankofCanada/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
