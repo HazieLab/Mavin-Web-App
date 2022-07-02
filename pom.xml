@@ -101,8 +101,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.242.183.106:8081/repository/BankofCanada/</url>
+	      <name>Bank of Canada Snapshot Nexus Repository </name>
+	      <url>http://54.242.183.106:8081/repository/BOC-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
