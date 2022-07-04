@@ -102,7 +102,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.220.57.144:8081/repository/BOC-Snapshot/</url>
+	      <url>http://54.225.57.144:8081/repository/BOC-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
